@@ -75,3 +75,4 @@ crashlytics-build.properties
 StandardAssets_Essentials/
 TerrainSampleAssets/
 .vscode
+*.meta
