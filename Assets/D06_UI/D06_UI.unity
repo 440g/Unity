@@ -381,7 +381,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' Destroy Sphere'
+  m_text: ' Destroy Cube'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: be762118a138e45d68eaaacc0b7cbc38, type: 2}
   m_sharedMaterial: {fileID: 8063121704038564859, guid: be762118a138e45d68eaaacc0b7cbc38, type: 2}
@@ -693,7 +693,7 @@ MonoBehaviour:
         m_MethodName: OnClick_Destroy
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 1091630475}
+          m_ObjectArgument: {fileID: 1057682064}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
