@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/D06_UI/D06_UI.unity
     guid: 0332694884b4143cabb1dfd232c89712
+  - enabled: 1
+    path: Assets/HW01_2276046_KMS/HW01_2276046_KMS_Load.unity
+    guid: eec62f6a0ca174b50b6d8f4542f3ec00
   m_configObjects: {}
