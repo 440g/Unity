@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/D08_PassDataToTargetScene/D08_Class02.unity
     guid: ad341d4fa35ec4b1fbc05218796a3259
+  - enabled: 1
+    path: Assets/HW02_2276046_KMS/HW02_2276046_KMS2.unity
+    guid: fb174fb68578243c99e6f20fa7064443
+  - enabled: 1
+    path: Assets/HW02_2276046_KMS/HW02_2276046_KMS.unity
+    guid: 396b9d2a6eba94309a58215e2d8bc951
   m_configObjects: {}
